@@ -1,5 +1,5 @@
 # Ignore the node_modules directory
 node_modules/
 
-# Ignore the build directory
-dist/
+# To update the global gitignore file:
+# git config --global core.excludesfile ~/.gitignore_global
