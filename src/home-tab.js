@@ -1,5 +1,5 @@
 const TESTIMONIAL_TEXT = "Sal makes the best pizza! The atmosphere and customer service make you feel like you are sitting in the middle of New York, eating authentic New York pizza! This is exactly the kind of place that I like to return to again and again.";
-const TESTIMONIAL_CITE = "Frederick";
+const TESTIMONIAL_CITE = "- Frederick";
 const HOURS_HEADING = "Hours";
 const HOURS = [
     "Sunday: 8am - 8pm",
