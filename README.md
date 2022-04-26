@@ -1,11 +1,15 @@
 # Restaurant
 ### Responsive restaurant web-page built with npm, Webpack and vanilla JS
 
-###Live Demo: 
+### Live Demo: 
 
 https://zl90.github.io/restaurant/
 
+### Desktop View
+
 ![Desktop View](https://zl90.github.io/restaurant/desktop-view.png)
+
+### Mobile View
 
 ![Mobile View](https://zl90.github.io/restaurant/mobile-view.png)
 
